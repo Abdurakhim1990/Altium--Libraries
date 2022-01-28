@@ -1,0 +1,9 @@
+History/
+Project Logs for */
+*.htm
+*.rar
+__Previews/
+Status Report.Txt
+Gerber/
+NC Drill/
+debug.log
