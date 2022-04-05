@@ -54,7 +54,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HMINMNQY
+DocumentUniqueId=HSYKVIPD
 
 [Document2]
 DocumentPath=Diode.PcbLib
@@ -88,7 +88,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HMINMNQY
+DocumentUniqueId=UDRNDOQE
 
 [Document4]
 DocumentPath=Zener Diode.SchLib
@@ -122,24 +122,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HMINMNQY
-
-[Document6]
-DocumentPath=Led.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HMINMNQY
+DocumentUniqueId=YLWAXGKX
 
 [OutputGroup1]
 Name=Netlist Outputs
